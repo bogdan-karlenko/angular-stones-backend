@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "angular-stones backend",
+  "main": "app.js",
+  "author": "Bogdan Karlenko <opposite.ps@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "pm2 start app.js"
+  }
+}
