@@ -9,6 +9,6 @@
     "express": "^4.16.2"
   },
   "scripts": {
-    "start": "pm2 start app.js"
+    "start": "app.js"
   }
 }
